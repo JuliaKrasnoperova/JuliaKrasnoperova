@@ -6,4 +6,5 @@
 #### [Healthy Food](https://juliakrasnoperova.github.io/Module-02-Shop/dist/)
 
 ##### Мой VK: [ссылка тут](https://vk.com/id73557381)
-##### Связаться со мной: julia.krasnoperova97@gmail.com
+##### Связаться со мной: julia.krasnoperova97@gmail.com 💬
+
